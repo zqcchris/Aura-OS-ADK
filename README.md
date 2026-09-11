@@ -165,7 +165,9 @@ class MyPlugin(BasePlugin):
 
 本项目由以下开源友好型伙伴支持：
 
-*   [![OrcaRouter](https://img.shields.io/badge/Built%20with-OrcaRouter-0070f3?style=flat-square)](https://www.orcarouter.ai/) **[OrcaRouter](https://www.orcarouter.ai/)** —— 为 Aura OS ADK 提供多模型统一路由与开发者免费算力支持。
+*   [![OrcaRouter](https://img.shields.io/badge/Built%20with-OrcaRouter-0070f3?style=flat-square)](https://www.orcarouter.ai/ref/ref_f553dc2c0dc08641605e) 
+
+    **[OrcaRouter](https://www.orcarouter.ai/ref/ref_f553dc2c0dc08641605e)** —— 为 Aura OS ADK 提供多模型统一路由与开发者免费算力支持。
 
 ---
 
