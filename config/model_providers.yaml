@@ -1,0 +1,6 @@
+model_providers:
+  orcarouter:
+    name: "OrcaRouter"
+    base_url: "https://api.orcarouter.ai/v1"
+    default_model: "orcarouter/auto"
+    env_key: "ORCA_KEY"
